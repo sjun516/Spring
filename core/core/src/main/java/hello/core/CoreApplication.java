@@ -11,4 +11,5 @@ public class CoreApplication {
 		SpringApplication.run(CoreApplication.class, args);
 	}
 
-} //
+} 
+// 안녕하세요
